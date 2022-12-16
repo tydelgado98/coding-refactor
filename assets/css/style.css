@@ -82,6 +82,7 @@ section h2 {
     font-size: 35px;
 }
 aside {
+    float: 1;
     margin-right: 20px;
     padding: 20px;
     clear: both;
